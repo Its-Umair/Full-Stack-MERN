@@ -8,3 +8,4 @@ console.warn("This is a test")
 console.error("This is a error")
 
 // 3 javascript variable
+// containers to store data values
