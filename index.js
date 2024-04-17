@@ -17,3 +17,8 @@ console.log(number1 + number2);
 var num1 = "55";
 var str1 = "this is a string";
 console.log(num1 + str1);
+var marks = {
+    hassan: 45,
+    ali: 50,
+    umair: 79
+}
