@@ -16,3 +16,4 @@ console.log(number1 + number2);
 // 4 data types in java script
 var num1 = "55";
 var str1 = "this is a string";
+console.log(num1 + str1);
