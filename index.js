@@ -32,7 +32,7 @@ var b = false;
 console.log(b);
 
 // vr und;
-console.log(und);
+//console.log(und);
 
 var n = null;
 console.log(n);
@@ -43,3 +43,4 @@ At a very high level, there are two types of data types in Javascript
 2. Reference Data types: array, object
 */
 
+var arr = [,2,3,4,5,6,7]
