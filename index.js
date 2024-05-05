@@ -27,8 +27,8 @@ var marks = {
 // console.log(marks);
 
 // Boolean
-var a = true;
-var b = false;
+var a1 = true;
+var b2 = false;
 // console.log(b);
 
 // vr und;
@@ -46,3 +46,9 @@ At a very high level, there are two types of data types in Javascript
 
 var arr = [1,2,3,4,5,6,7]
 // console.log(arr)
+
+// Operators in JavaScript
+// Arithmetic Operators
+var a = 100;
+var b = 10;
+console.log("The value of a+b is ", a+b);
