@@ -72,11 +72,12 @@ var y = 56;
 // console.log(x <= y);
 
 // Logical operator
-// Logical and
+// And operator
 // console.log(true && true)
 // console.log(false && true)
 // console.log(false && false)
 
+// Or || operator
 console.log(true || true)
 console.log(false || true)
 console.log(false || false)
