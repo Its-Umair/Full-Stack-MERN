@@ -51,10 +51,10 @@ var arr = [1,2,3,4,5,6,7]
 // Arithmetic Operators
 var a = 100;
 var b = 10;
-console.log("The value of a+b is ", a+b);
-console.log("The value of a-b is ", a-b);
-console.log("The value of a*b is ", a*b);
-console.log("The value of a/b is ", a/b);
+// console.log("The value of a+b is ", a+b);
+// console.log("The value of a-b is ", a-b);
+// console.log("The value of a*b is ", a*b);
+// console.log("The value of a/b is ", a/b);
 
 // Assignment Operators
 var c = b;
@@ -62,11 +62,11 @@ var c = b;
 // c -=2;
 // c *=2;
 // c /=2;
-console.log(c);
+// console.log(c);
 
 // comparison operator
-var x= 34;
-var y = 56;
+// var x= 34;
+// var y = 56;
 // console.log(x == y);
 // console.log(x >= y);
 // console.log(x <= y);
@@ -78,6 +78,10 @@ var y = 56;
 // console.log(false && false)
 
 // Or || operator
-console.log(true || true)
-console.log(false || true)
-console.log(false || false)
+// console.log(true || true)
+// console.log(false || true)
+// console.log(false || false)
+
+// Not operator
+console.log(!false);
+console.log(!true);
