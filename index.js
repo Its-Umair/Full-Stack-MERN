@@ -73,6 +73,10 @@ var y = 56;
 
 // Logical operator
 // Logical and
-console.log(true && true)
-console.log(false && true)
-console.log(false && false)
+// console.log(true && true)
+// console.log(false && true)
+// console.log(false && false)
+
+console.log(true || true)
+console.log(false || true)
+console.log(false || false)
