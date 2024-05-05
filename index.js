@@ -43,4 +43,5 @@ At a very high level, there are two types of data types in Javascript
 2. Reference Data types: array, object
 */
 
-var arr = [,2,3,4,5,6,7]
+var arr = [1,2,3,4,5,6,7]
+console.log(arr)
