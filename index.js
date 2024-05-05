@@ -32,7 +32,8 @@ var b = false;
 console.log(b);
 
 // vr und;
-//console.log(und);
+var und;
+console.log(und);
 
 var n = null;
 console.log(n);
