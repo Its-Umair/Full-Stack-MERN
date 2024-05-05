@@ -83,5 +83,5 @@ var c = b;
 // console.log(false || false)
 
 // Not operator
-console.log(!false);
-console.log(!true);
+// console.log(!false);
+// console.log(!true);
