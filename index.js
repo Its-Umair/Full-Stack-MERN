@@ -67,6 +67,12 @@ console.log(c);
 // comparison operator
 var x= 34;
 var y = 56;
-console.log(x == y);
-console.log(x >= y);
-console.log(x <= y);
+// console.log(x == y);
+// console.log(x >= y);
+// console.log(x <= y);
+
+// Logical operator
+// Logical and
+console.log(true && true)
+console.log(false && true)
+console.log(false && false)
