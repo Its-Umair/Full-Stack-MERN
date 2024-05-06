@@ -142,7 +142,16 @@ arr.forEach(function (element) {
     console.log(element);
 })
 
-Let j = 0;
-const ac = 0;
-ac++;
+// const ac = 0;
+// ac++;
 // ac = ac + 1;
+Let j = 0;
+while(j<arr.length) {
+    console.log(arr[j]);
+    j++;
+}
+
+do {
+    console.log(arr[j]);
+    j++;
+}
