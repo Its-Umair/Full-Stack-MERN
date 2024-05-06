@@ -112,6 +112,7 @@ var age = 41;
 //     console.log('You are a kid');
 // }
 
+/*
 age = 18;
 
 // if-else Ladder
@@ -129,3 +130,4 @@ else{
     console.log("You are a kid");
 }
 console.log("End of ladder");
+*/
