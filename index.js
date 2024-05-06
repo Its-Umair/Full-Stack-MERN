@@ -132,19 +132,20 @@ else{
 console.log("End of ladder");
 */
 
-var arr = [1, 2, 3, 4, 5, 6, 7]
+// var arr = [1, 2, 3, 4, 5, 6, 7]
 // console.log(arr);
 // for(var i = 0; i < arr.length;i++){
 //     console.log(arr[i]);
 // }
 
-arr.forEach(function (element) {
-    console.log(element);
-})
+// arr.forEach(function (element) {
+//     console.log(element);
 
 // const ac = 0;
 // ac++;
 // ac = ac + 1;
+
+var arr = [1, 2, 3, 4, 5, 6, 7]
 Let j = 0;
 while(j<arr.length) {
     console.log(arr[j]);
