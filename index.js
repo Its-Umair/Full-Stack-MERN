@@ -86,6 +86,8 @@ var c = b;
 // console.log(!false);
 // console.log(!true);
 
+// Function in JavaScript
+// DRY = Do not repeat yourself
 function avg(a, b){
     c = (a + b)/2;
     return c;
