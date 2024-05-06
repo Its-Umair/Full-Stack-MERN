@@ -151,8 +151,3 @@ while(j<arr.length) {
     console.log(arr[j]);
     j++;
 }
-
-do {
-    console.log(arr[j]);
-    j++;
-}
