@@ -99,12 +99,30 @@ c1 = avg(6, 6);
 
 var age = 41;
 // Single if statement
-if (age > 18){
-    console.log('You are not a kid');
-}
+// if (age > 18){
+//     console.log('You are not a kid');
+// }
+
+// if - else statement
+
 // if (age > 18){
 //     console.log('You are not a kid');
 // }
 // else{
 //     console.log('You are a kid');
 // }
+
+// if-else Ladder
+if (age > 32){
+    console.log("You are not a kid");
+}
+else if (age > 56){
+    console.log("You are a senior citizen");
+}
+else if (age > 26){
+
+    console.log("You are a young man");
+}
+else{
+    console.log("You are a kid");
+}
