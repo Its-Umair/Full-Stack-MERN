@@ -97,10 +97,14 @@ c1 = avg(6, 6);
 
 // Conditionals in JavaScript
 
-var age = 34;
+var age = 41;
+// Single if statement
 if (age > 18){
     console.log('You are not a kid');
 }
-else{
-    console.log('You are a kid');
-}
+// if (age > 18){
+//     console.log('You are not a kid');
+// }
+// else{
+//     console.log('You are a kid');
+// }
