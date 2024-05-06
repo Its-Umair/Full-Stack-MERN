@@ -142,4 +142,7 @@ arr.forEach(function(element){
     console.log(element);
 })
 
-Let j=0;
+Let j = 0;
+const ac = 0;
+ac++;
+ac = ac + 1;
