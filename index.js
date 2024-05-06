@@ -132,7 +132,7 @@ else{
 console.log("End of ladder");
 */
 
-// var arr = [1,2,3,4,5,6,7]
+var arr = [1,2,3,4,5,6,7]
 // console.log(arr);
 // for(var i = 0; i < arr.length;i++){
 //     console.log(arr[i]);
@@ -141,3 +141,5 @@ console.log("End of ladder");
 arr.forEach(function(element){
     console.log(element);
 })
+
+Let j=0;
