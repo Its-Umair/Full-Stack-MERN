@@ -146,7 +146,7 @@ console.log("End of ladder");
 // ac = ac + 1;
 
 var arr = [1, 2, 3, 4, 5, 6, 7]
-Let i = 0;
+Let j = 0;
 while(j<arr.length) {
     console.log(arr[j]);
     j++;
