@@ -44,7 +44,7 @@ At a very high level, there are two types of data types in Javascript
 2. Reference Data types: array, object
 */
 
-var arr = [1,2,3,4,5,6,7]
+var arr = [1, 2, 3, 4, 5, 6, 7]
 // console.log(arr)
 
 // Operators in JavaScript
@@ -87,8 +87,8 @@ var c = b;
 // console.log(!true);
 
 // Function in JavaScript
-function avg(a, b){
-    c = (a + b)/2;
+function avg(a, b) {
+    c = (a + b) / 2;
     return c;
 }
 // DRY = Do not repeat yourself
@@ -132,17 +132,17 @@ else{
 console.log("End of ladder");
 */
 
-var arr = [1,2,3,4,5,6,7]
+var arr = [1, 2, 3, 4, 5, 6, 7]
 // console.log(arr);
 // for(var i = 0; i < arr.length;i++){
 //     console.log(arr[i]);
 // }
 
-arr.forEach(function(element){
+arr.forEach(function (element) {
     console.log(element);
 })
 
 Let j = 0;
 const ac = 0;
 ac++;
-ac = ac + 1;
+// ac = ac + 1;
