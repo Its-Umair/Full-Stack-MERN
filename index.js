@@ -87,11 +87,20 @@ var c = b;
 // console.log(!true);
 
 // Function in JavaScript
-// DRY = Do not repeat yourself
 function avg(a, b){
     c = (a + b)/2;
     return c;
 }
-
+// DRY = Do not repeat yourself
 c1 = avg(6, 6);
-console.log(c1)
+// console.log(c1)
+
+// Conditionals in JavaScript
+
+var age = 34;
+if (age > 8){
+    console.log('You are not a kid');
+}
+else{
+    console.log('You are a kid');
+}
