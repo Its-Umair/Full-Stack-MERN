@@ -87,7 +87,8 @@ var c = b;
 // console.log(!true);
 
 function avg(a, b){
-    return (a + b)/2;
+    c = (a + b)/2;
+    return c;
 }
 
 c1 = avg(6, 6);
