@@ -134,13 +134,13 @@ console.log("End of ladder");
 
 var arr = [1, 2, 3, 4, 5, 6, 7]
 // console.log(arr);
-for(var i = 0; i < arr.length;i++){
-    if(i==2){
-        // break
-        continue;
-    }
-    console.log(arr[i]);
-}
+// for(var i = 0; i < arr.length;i++){
+//     if(i==2){
+//         // break
+//         continue;
+//     }
+//     console.log(arr[i]);
+// }
 
 // arr.forEach(function (element) {
 //     console.log(element);
@@ -160,3 +160,7 @@ for(var i = 0; i < arr.length;i++){
 //     console.log(arr[j]);
 //     j++;
 // } while (j < arr.length);
+
+myArr = ["Fan", "Camera", 34, null, true, false]
+// Array method
+console.log(myArr.length)
