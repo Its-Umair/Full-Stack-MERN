@@ -166,4 +166,6 @@ myArr = ["Fan", "Camera", 34, null, true, false]
 console.log(myArr.length);
 // myArr.pop();
 // myArr.push("Umair")
+// myArr.shift()
+console.log(myArr.unshift("Fan"))
 console.log(myArr);
