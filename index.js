@@ -168,5 +168,6 @@ console.log(myArr.length);
 // myArr.push("Umair")
 // myArr.shift()
 // console.log(myArr.unshift("Fan"))
-myArr.toString()
+// myArr.toString()
+// myArr.sort()
 console.log(myArr);
