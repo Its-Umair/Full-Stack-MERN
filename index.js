@@ -152,7 +152,7 @@ j = 0;
 //     j++;
 // }
 
-do{
+do {
     console.log(arr[j]);
     j++;
-}while(j<arr.length);
+} while (j < arr.length);
