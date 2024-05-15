@@ -170,4 +170,6 @@ console.log(myArr.length);
 // console.log(myArr.unshift("Fan"))
 // myArr.toString()
 // myArr.sort()
-console.log(myArr);
+// console.log(myArr);
+
+// String Method in JavaScript
