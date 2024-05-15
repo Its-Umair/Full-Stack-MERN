@@ -164,5 +164,6 @@ var arr = [1, 2, 3, 4, 5, 6, 7]
 myArr = ["Fan", "Camera", 34, null, true, false]
 // Array method
 console.log(myArr.length);
-myArr.pop();
+// myArr.pop();
+myArr.push("Umair")
 console.log(myArr);
