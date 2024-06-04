@@ -1,2 +1,2 @@
 # Full-Stack-MERN
-Learning MERN
+Learning Full Stack MERN Web Developer
