@@ -29,16 +29,18 @@
             width: 89px;
         }
     </style>
-    <script>
-        
-    </script>
 </head>
 <body>
     <div class="container">
         <div class="box">
-            <img src="dog.jfif" alt="">
+            <img id="myIMG" src="dog.jfif" alt="">
             <button id="btn">Toggle</button>
         </div>
     </div>
 </body>
+<script>
+    btn.addEventListener("click", ()=>{
+        myIMG.style.width = "546px"
+    })
+</script>
 </html>
