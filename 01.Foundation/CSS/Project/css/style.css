@@ -11,3 +11,9 @@ footer {
     background-color: black;
     font-family: "Lato", sans-serif;
 }
+
+header {
+    height: 12vh;
+    background-color: black;
+    border: 2px solid red;
+}
