@@ -15,11 +15,11 @@ header {
     font-family: "Lato", sans-serif;
 }
 
-nav{
+nav {
     display: flex;
 }
 
-.logo{
+.logo {
     display: flex;
     align-items: center;
 }
@@ -44,6 +44,10 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+}
+
+.container{
+    min-height: calc(100vh - 58px - 12vh);
 }
 
 footer {
