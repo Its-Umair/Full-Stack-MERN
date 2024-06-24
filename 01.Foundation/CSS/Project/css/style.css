@@ -11,19 +11,19 @@ header {
     font-family: "Lato", sans-serif;
 }
 
-nav ul{
+nav ul {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     height: 58px;
 }
 
-nav ul li{
+nav ul li {
     list-style: none;
     padding: 0 23px;
 }
 
-nav ul li a{
+nav ul li a {
     color: white;
     text-decoration: none;
 }
