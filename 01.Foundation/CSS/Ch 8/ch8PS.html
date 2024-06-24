@@ -8,6 +8,7 @@
     <style>
         .progress {
             background-color: red;
+            height: 3px;
         }
 
         * {
@@ -23,6 +24,17 @@
         main {
             height: 899px;
             background-color: blue;
+        }
+        @keyframes load {
+            0%{
+                width: 0;
+            }
+            50%{
+                width: 40vw;
+            }
+            100%{
+                width: 100vw;
+            }
         }
     </style>
 </head>
