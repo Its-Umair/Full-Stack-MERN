@@ -20,6 +20,7 @@ nav ul{
 
 nav ul li{
     list-style: none;
+    padding: 0 23px;
 }
 
 nav ul li a{
