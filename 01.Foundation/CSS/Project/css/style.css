@@ -10,6 +10,14 @@ header {
     background-color: black;
 }
 
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    color: white;
+}
+
 footer {
     height: 12vh;
     color: white;
