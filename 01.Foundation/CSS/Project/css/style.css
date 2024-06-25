@@ -46,6 +46,11 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    color: blue;
+    font-style: bold;
+}
+
 .container{
     min-height: calc(100vh - 58px - 12vh);
 }
