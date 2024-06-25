@@ -17,3 +17,11 @@
 .text-center{
     text-align: center;
 }
+
+.my-1{
+    margin: 10px 0;
+}
+
+.my-2{
+    margin: 26px 0;
+}
