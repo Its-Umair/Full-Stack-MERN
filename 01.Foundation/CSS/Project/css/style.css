@@ -76,12 +76,13 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
     width: 90vw;
-    margin: 12px auto;
+    margin: 37px auto;
 }
 
 .cards {
     display: flex;
     justify-content: center;
+    overflow: hidden;
 }
 
 .card-item {
