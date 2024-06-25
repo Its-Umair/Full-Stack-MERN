@@ -75,6 +75,10 @@ nav ul li a:hover {
     margin: 12px auto;
 }
 
+.card-item {
+    width: 13vw;
+}
+
 .card h2{
     font-family: "Lato", sans-serif;
     margin: 26px 0;
