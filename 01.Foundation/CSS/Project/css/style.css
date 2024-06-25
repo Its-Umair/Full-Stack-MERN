@@ -75,6 +75,10 @@ nav ul li a:hover {
     margin: 12px auto;
 }
 
+.card h2{
+    font-family: "Lato", sans-serif;
+}
+
 .container {
     min-height: calc(100vh - 58px - 12vh);
 }
