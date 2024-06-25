@@ -70,6 +70,11 @@ nav ul li a:hover {
     margin: 12px auto;
 }
 
+.card {
+    width: 80vw;
+    margin: 12px auto;
+}
+
 .container {
     min-height: calc(100vh - 58px - 12vh);
 }
