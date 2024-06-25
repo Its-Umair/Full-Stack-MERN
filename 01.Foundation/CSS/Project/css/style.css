@@ -79,7 +79,7 @@ nav ul li a:hover {
     margin: 12px auto;
 }
 
-.cards{
+.cards {
     display: flex;
     justify-content: center;
 }
@@ -91,7 +91,9 @@ nav ul li a:hover {
     margin: 0 10px;
 }
 
-.card h2{
+h2 {
+    display: flex;
+    justify-content: center;
     font-family: "Lato", sans-serif;
     margin: 26px 0;
 }
