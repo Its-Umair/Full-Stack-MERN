@@ -64,6 +64,11 @@ nav ul li a:hover {
     padding: 0px 15px;
 }
 
+.slider {
+    margin: auto;
+    width: 80vw;
+}
+
 .container {
     min-height: calc(100vh - 58px - 12vh);
 }
