@@ -65,12 +65,16 @@ nav ul li a:hover {
 }
 
 .slider {
+    display: flex;
+    justify-content: center;
     margin: auto;
     width: 80vw;
     margin: 12px auto;
 }
 
 .card {
+    display: flex;
+    justify-content: center;
     width: 90vw;
     margin: 12px auto;
 }
