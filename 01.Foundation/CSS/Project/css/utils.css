@@ -6,5 +6,7 @@
 
 .btn {
     padding: 3px 10px;
-    color: #3686a5;
+    color: white;
+    background: var(--main-bg-color);
+    border: 2px solid white;
 }
