@@ -65,6 +65,8 @@ nav ul li a:hover {
 }
 
 .slider {
+    display: flex;
+    justify-content: center;
     margin: auto;
     width: 80vw;
     margin: 12px auto;
@@ -75,14 +77,19 @@ nav ul li a:hover {
     margin: 12px auto;
 }
 
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
 .card-item {
     display: inline-flex;
     justify-content: center;
     flex-direction: column;
-    margin: 0 14px;
+    margin: 0 10px;
 }
 
-.card h2{
+.card h2 {
     font-family: "Lato", sans-serif;
     margin: 26px 0;
 }
