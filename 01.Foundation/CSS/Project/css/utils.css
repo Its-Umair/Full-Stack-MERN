@@ -9,4 +9,5 @@
     color: white;
     background: var(--main-bg-color);
     border: 2px solid white;
+    border-radius: 7px;
 }
