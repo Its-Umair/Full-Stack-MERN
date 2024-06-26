@@ -9,4 +9,7 @@
         justify-content: center;
         margin: 12px 0;
     }
+    nav ul{
+        justify-content: center;
+    }
 }
