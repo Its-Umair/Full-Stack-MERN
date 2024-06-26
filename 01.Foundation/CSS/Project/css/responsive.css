@@ -5,4 +5,8 @@
     nav{
         flex-direction: column;
     }
+    .log{
+        justify-content: center;
+        margin: 12px 0;
+    }
 }

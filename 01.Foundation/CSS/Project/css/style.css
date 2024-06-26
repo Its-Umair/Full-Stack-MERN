@@ -74,15 +74,13 @@ nav ul li a:hover {
 }
 
 .card {
-    display: flex;
-    justify-content: center;
-    width: 90vw;
+    max-width: 91vw;
     margin: 37px auto;
+    font-family: "Lato", sans-serif;
 }
 
 .cards {
     display: flex;
-    justify-content: center;
     overflow: hidden;
 }
 
